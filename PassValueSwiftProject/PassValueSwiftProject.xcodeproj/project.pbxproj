@@ -15,11 +15,10 @@
 		B102EA031C044B2600FA415B /* PassValueSwiftProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B102EA021C044B2600FA415B /* PassValueSwiftProjectTests.swift */; };
 		B102EA0E1C044B2600FA415B /* PassValueSwiftProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B102EA0D1C044B2600FA415B /* PassValueSwiftProjectUITests.swift */; };
 		B102EA1C1C044C2D00FA415B /* SwiftTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B102EA1B1C044C2D00FA415B /* SwiftTableViewController.swift */; };
-		B102EA1F1C044C4B00FA415B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B102EA1E1C044C4B00FA415B /* Main.storyboard */; };
 		B102EA251C044CDC00FA415B /* PassValueStyleModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B102EA241C044CDC00FA415B /* PassValueStyleModel.swift */; };
-		B102EA2A1C04554800FA415B /* ChannelCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B102EA291C04554800FA415B /* ChannelCell.swift */; };
 		B102EA2E1C0456FE00FA415B /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B102EA2D1C0456FE00FA415B /* TestViewController.m */; };
 		B102EA321C045D3300FA415B /* cat_lady.png in Resources */ = {isa = PBXBuildFile; fileRef = B102EA311C045D3300FA415B /* cat_lady.png */; };
+		B1B9CD8A1C48E889005DE45F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1B9CD881C48E889005DE45F /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,14 +54,13 @@
 		B102EA0D1C044B2600FA415B /* PassValueSwiftProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassValueSwiftProjectUITests.swift; sourceTree = "<group>"; };
 		B102EA0F1C044B2600FA415B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B102EA1B1C044C2D00FA415B /* SwiftTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftTableViewController.swift; sourceTree = "<group>"; };
-		B102EA1D1C044C4B00FA415B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B102EA241C044CDC00FA415B /* PassValueStyleModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PassValueStyleModel.swift; sourceTree = "<group>"; };
-		B102EA291C04554800FA415B /* ChannelCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChannelCell.swift; sourceTree = "<group>"; };
 		B102EA2B1C0456FD00FA415B /* PassValueSwiftProject-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PassValueSwiftProject-Bridging-Header.h"; sourceTree = "<group>"; };
 		B102EA2C1C0456FE00FA415B /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
 		B102EA2D1C0456FE00FA415B /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 		B102EA2F1C04577600FA415B /* AFNetworking.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AFNetworking.framework; path = "Pods/../build/Debug-iphoneos/AFNetworking.framework"; sourceTree = "<group>"; };
 		B102EA311C045D3300FA415B /* cat_lady.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat_lady.png; sourceTree = "<group>"; };
+		B1B9CD891C48E889005DE45F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DA215BA722BCBFB24C874FA6 /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -140,10 +138,9 @@
 				B102E9ED1C044B2600FA415B /* AppDelegate.swift */,
 				B102EA241C044CDC00FA415B /* PassValueStyleModel.swift */,
 				B102E9EF1C044B2600FA415B /* ViewController.swift */,
-				B102EA291C04554800FA415B /* ChannelCell.swift */,
 				B102EA2C1C0456FE00FA415B /* TestViewController.h */,
 				B102EA2D1C0456FE00FA415B /* TestViewController.m */,
-				B102EA1E1C044C4B00FA415B /* Main.storyboard */,
+				B1B9CD881C48E889005DE45F /* Main.storyboard */,
 				B102E9F41C044B2600FA415B /* Assets.xcassets */,
 				B102E9F61C044B2600FA415B /* LaunchScreen.storyboard */,
 				B102E9F91C044B2600FA415B /* Info.plist */,
@@ -278,7 +275,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B102EA321C045D3300FA415B /* cat_lady.png in Resources */,
-				B102EA1F1C044C4B00FA415B /* Main.storyboard in Resources */,
+				B1B9CD8A1C48E889005DE45F /* Main.storyboard in Resources */,
 				B102E9F81C044B2600FA415B /* LaunchScreen.storyboard in Resources */,
 				B102E9F51C044B2600FA415B /* Assets.xcassets in Resources */,
 			);
@@ -355,7 +352,6 @@
 			files = (
 				B102EA2E1C0456FE00FA415B /* TestViewController.m in Sources */,
 				B102E9F01C044B2600FA415B /* ViewController.swift in Sources */,
-				B102EA2A1C04554800FA415B /* ChannelCell.swift in Sources */,
 				B102EA1C1C044C2D00FA415B /* SwiftTableViewController.swift in Sources */,
 				B102EA251C044CDC00FA415B /* PassValueStyleModel.swift in Sources */,
 				B102E9EE1C044B2600FA415B /* AppDelegate.swift in Sources */,
@@ -402,13 +398,12 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
-		B102EA1E1C044C4B00FA415B /* Main.storyboard */ = {
+		B1B9CD881C48E889005DE45F /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				B102EA1D1C044C4B00FA415B /* Base */,
+				B1B9CD891C48E889005DE45F /* Base */,
 			);
 			name = Main.storyboard;
-			path = ../../Desktop/SwiftTest2Project/SwiftTest2Project;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

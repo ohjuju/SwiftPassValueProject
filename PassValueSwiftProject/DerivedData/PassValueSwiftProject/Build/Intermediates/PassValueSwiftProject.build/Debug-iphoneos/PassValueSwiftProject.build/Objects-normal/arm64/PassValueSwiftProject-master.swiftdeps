@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "ab7245097eeae3a0fa76a5b2448b1bc7"
+build_time: [506506890, 615457000]
+inputs:
+  "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/PassValueSwiftProject/PassValueStyleModel.swift": [501671510, 0]
+  "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/PassValueSwiftProject/AppDelegate.swift": [506162453, 0]
+  "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/PassValueSwiftProject/ViewController.swift": [501671608, 0]
+  "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/PassValueSwiftProject/SwiftTableViewController.swift": [506485048, 0]

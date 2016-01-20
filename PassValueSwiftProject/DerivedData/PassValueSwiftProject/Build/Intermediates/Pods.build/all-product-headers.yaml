@@ -1,0 +1,315 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Products/Debug-iphoneos/AFNetworking.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AFHTTPRequestOperation.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPRequestOperationManager.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPSessionManager.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkActivityIndicatorManager.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkReachabilityManager.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-Swift.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Products/Debug-iphoneos/AFNetworking.framework/Headers/AFNetworking-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-umbrella.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Target Support Files/AFNetworking/AFNetworking-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/AFNetworking/AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFSecurityPolicy.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLConnectionOperation.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLRequestSerialization.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLResponseSerialization.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLSessionManager.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActivityIndicatorView+AFNetworking.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIAlertView+AFNetworking.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+AFNetworking.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+AFNetworking.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+AFNetworking.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIKit+AFNetworking.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIProgressView+AFNetworking.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+AFNetworking.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWebView+AFNetworking.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Products/Debug-iphoneos/AFNetworking.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Intermediates/Pods.build/Debug-iphoneos/AFNetworking.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Products/Debug-iphoneos/Mantle.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MTLJSONAdapter.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/MTLJSONAdapter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MTLModel+NSCoding.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/MTLModel+NSCoding.h"
+        },
+        {
+          'type': 'file',
+          'name': "MTLModel.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/MTLModel.h"
+        },
+        {
+          'type': 'file',
+          'name': "MTLReflection.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/MTLReflection.h"
+        },
+        {
+          'type': 'file',
+          'name': "MTLTransformerErrorHandling.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/MTLTransformerErrorHandling.h"
+        },
+        {
+          'type': 'file',
+          'name': "MTLValueTransformer.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/MTLValueTransformer.h"
+        },
+        {
+          'type': 'file',
+          'name': "Mantle-Swift.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Products/Debug-iphoneos/Mantle.framework/Headers/Mantle-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Mantle-umbrella.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Target Support Files/Mantle/Mantle-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Mantle.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/Mantle.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+MTLManipulationAdditions.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/NSArray+MTLManipulationAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDictionary+MTLJSONKeyPath.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/NSDictionary+MTLJSONKeyPath.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDictionary+MTLManipulationAdditions.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/NSDictionary+MTLManipulationAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDictionary+MTLMappingAdditions.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/NSDictionary+MTLMappingAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSError+MTLModelException.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/NSError+MTLModelException.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MTLComparisonAdditions.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/NSObject+MTLComparisonAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSValueTransformer+MTLInversionAdditions.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/NSValueTransformer+MTLInversionAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSValueTransformer+MTLPredefinedTransformerAdditions.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/NSValueTransformer+MTLPredefinedTransformerAdditions.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Products/Debug-iphoneos/Mantle.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Intermediates/Pods.build/Debug-iphoneos/Mantle.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Products/Debug-iphoneos/Mantle.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "EXTKeyPathCoding.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/extobjc/EXTKeyPathCoding.h"
+        },
+        {
+          'type': 'file',
+          'name': "EXTRuntimeExtensions.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/extobjc/EXTRuntimeExtensions.h"
+        },
+        {
+          'type': 'file',
+          'name': "EXTScope.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/extobjc/EXTScope.h"
+        },
+        {
+          'type': 'file',
+          'name': "metamacros.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Mantle/Mantle/extobjc/metamacros.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Products/Debug-iphoneos/Pods.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Swift.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Products/Debug-iphoneos/Pods.framework/Headers/Pods-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods-umbrella.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Target Support Files/Pods/Pods-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Products/Debug-iphoneos/Pods.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Products/Debug-iphoneos/SnapKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SnapKit-Swift.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Products/Debug-iphoneos/SnapKit.framework/Headers/SnapKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SnapKit-umbrella.h",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/Pods/Target Support Files/SnapKit/SnapKit-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Products/Debug-iphoneos/SnapKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Intermediates/Pods.build/Debug-iphoneos/SnapKit.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

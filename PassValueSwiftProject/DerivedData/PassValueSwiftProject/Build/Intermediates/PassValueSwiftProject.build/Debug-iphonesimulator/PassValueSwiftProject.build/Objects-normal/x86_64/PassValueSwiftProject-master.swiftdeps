@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "c8c293c1442292e84050680343d5a34f"
+build_time: [501672015, 545040000]
+inputs:
+  "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/PassValueSwiftProject/AppDelegate.swift": !dirty [501671400, 0]
+  "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/PassValueSwiftProject/SwiftTableViewController.swift": !dirty [501671401, 0]
+  "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/PassValueSwiftProject/ViewController.swift": !dirty [501671608, 0]
+  "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/PassValueSwiftProject/PassValueStyleModel.swift": !dirty [501671510, 0]
+  "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/PassValueSwiftProject/ChannelCell.swift": !dirty [501671401, 0]

@@ -1,0 +1,91 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PassValueStyleModel"
+provides-nominal:
+- "C21PassValueSwiftProject19PassValueStyleModel"
+provides-member:
+- ["C21PassValueSwiftProject19PassValueStyleModel", ""]
+provides-dynamic-lookup:
+- "passValueStyle"
+- "sharedInstance"
+depends-top-level:
+- "PassValueStyleModel"
+- "NSObject"
+- !private "dispatch_once_t"
+- "String"
+- !private "dispatch_once"
+depends-member:
+- !private ["PSs9AnyObject", "PassValueStyleModel"]
+- !private ["PSs9AnyObject", "dispatch_once"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "passValueStyle"]
+- ["PSs9AnyObject", "sharedInstance"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs11CVarArgType", "PassValueStyleModel"]
+- !private ["PSs11CVarArgType", "dispatch_once"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "passValueStyle"]
+- ["PSs11CVarArgType", "sharedInstance"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs23CustomStringConvertible", "PassValueStyleModel"]
+- !private ["PSs23CustomStringConvertible", "dispatch_once"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "passValueStyle"]
+- ["PSs23CustomStringConvertible", "sharedInstance"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "PassValueStyleModel"]
+- !private ["PSs9Equatable", "dispatch_once"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "passValueStyle"]
+- ["PSs9Equatable", "sharedInstance"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "PassValueStyleModel"]
+- !private ["PSs8Hashable", "dispatch_once"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "passValueStyle"]
+- ["PSs8Hashable", "sharedInstance"]
+- ["PSs8Hashable", ""]
+- ["CSo8NSObject", "PassValueStyleModel"]
+- ["CSo8NSObject", "String"]
+- !private ["CSo8NSObject", "dispatch_once"]
+- !private ["CSo8NSObject", "dispatch_once_t"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "passValueStyle"]
+- ["CSo8NSObject", "sharedInstance"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "PassValueStyleModel"]
+- !private ["PSo16NSObjectProtocol", "dispatch_once"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "passValueStyle"]
+- ["PSo16NSObjectProtocol", "sharedInstance"]
+- ["PSo16NSObjectProtocol", ""]
+- ["C21PassValueSwiftProject19PassValueStyleModel", "PassValueStyleModel"]
+- ["C21PassValueSwiftProject19PassValueStyleModel", "String"]
+- ["C21PassValueSwiftProject19PassValueStyleModel", "deinit"]
+- !private ["C21PassValueSwiftProject19PassValueStyleModel", "dispatch_once"]
+- !private ["C21PassValueSwiftProject19PassValueStyleModel", "dispatch_once_t"]
+- ["C21PassValueSwiftProject19PassValueStyleModel", "init"]
+- ["C21PassValueSwiftProject19PassValueStyleModel", "passValueStyle"]
+- ["C21PassValueSwiftProject19PassValueStyleModel", "sharedInstance"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C21PassValueSwiftProject19PassValueStyleModel"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/PassValueSwiftProject/PassValueSwiftProject-Bridging-Header.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/ouok/SwiftPassValueProject/PassValueSwiftProject/DerivedData/PassValueSwiftProject/Build/Products/Debug-iphonesimulator/SnapKit.framework/Modules/SnapKit.swiftmodule/x86_64.swiftmodule"
+interface-hash: "0fad2249d3d5ea28e897aa8be9149c7e"
